@@ -1,10 +1,10 @@
 {
   "naruto_or_something": {
-    "name": "anime.png",
-    "x": 2952,
-    "y": -8167,
-    "width": 95,
-    "height": 98
+    "name": "rozaDDG.png",
+    "x": 11370,
+    "y": -12171,
+    "width": 128,
+    "height": 128
    },
   "jackal_communist": {
     "name": "jammunist.jpg",
@@ -12,145 +12,5 @@
     "y": -7946,
     "width": 368,
     "height": 368
-   },
-  "molniyoba": {
-    "name": "main.png",
-    "x": 1397,
-    "y": -11130,
-    "width": 115,
-    "height": 55
-   },
-  "gay": {
-    "name": "abu_gay1.png",
-    "x": 10029,
-    "y": -15954,
-    "width": 820,
-    "height": 852
-   },
-  "necto": {
-    "name": "fraer.png",
-    "x": 28939,
-    "y": -12486,
-    "width": 61,
-    "height": 70
-   },
-  "base": {
-    "name": "base.png",
-    "x": 2240,
-    "y": -7823,
-    "width": 603,
-    "height": 384
-   },
-  "anya": {
-    "name": "anya.jpg",
-    "x": 29076,
-    "y": -12484,
-    "width": 73,
-    "height": 100
-   },
-  "akatsuki1": {
-    "name": "akatsuki1.png",
-    "x": 10307,
-    "y": -15023,
-    "width": 181,
-    "height": 119
-   },
-  "wakaba": {
-    "name": "wakaba.jpg",
-    "x": 9000,
-    "y": -12000,
-    "width": 30,
-    "height": 43
-   },
-  "yuri": {
-    "name": "yuri1.png",
-    "x": 10194,
-    "y": -15006,
-    "width": 100,
-    "height": 100
-   },
-  "painttools": {
-    "name": "painttools.jpg",
-    "x": 29002,
-    "y": -12429,
-    "width": 60,
-    "height": 12
-   },
-  "stancia": {
-    "name": "stancia.png",
-    "x": 10851,
-    "y": -15954,
-    "width": 104,
-    "height": 197
-   },
-  "slavya": {
-    "name": "slavya.png",
-    "x": 2603,
-    "y": -7888,
-    "width": 67,
-    "height": 263
-   },
-  "souseiseki": {
-    "name": "souseiseki.jpg",
-    "x": 9611,
-    "y": -15942,
-    "width": 163,
-    "height": 239
-   },
-  "maids": {
-    "name": "maids.jpg",
-    "x": 10029,
-    "y": -16060,
-    "width": 820,
-    "height": 102
-   },
-  "hlm": {
-    "name": "fraer2.png",
-    "x": 28869,
-    "y": -12486,
-    "width": 61,
-    "height": 70
-   },
-  "sailormoon": {
-    "name": "SM.png",
-    "x": 28900,
-    "y": -12330,
-    "width": 75,
-    "height": 100
-   },
-  "armitage": {
-    "name": "armitage.jpg",
-    "x": 29000,
-    "y": -12330,
-    "width": 200,
-    "height": 234
-   },
-  "alice": {
-    "name": "alice.png",
-    "x": 8074,
-    "y": -16197,
-    "width": 800,
-    "height": 791
-   },
-  "redyoba": {
-    "name": "red_yoba.png",
-    "x": 968,
-    "y": -11389,
-    "width": 1400,
-    "height": 772
-   },
-  "lenin": {
-    "name": "zyBbjgmfCyg.jpg",
-    "x": 10002,
-    "y": -16452,
-    "width": 172,
-    "height": 202
-   },
-  "alisochka": {
-    "name": "expectedOutput.png",
-    "x": 29320,
-    "y": -12500,
-    "width": 1125,
-    "height": 1080
    }
 }
